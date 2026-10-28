@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hey%20there%20%F0%9F%91%8B%2C%20I'm%20Rohit%20Bagal&fontSize=36&fontColor=ffffff&fontAlignY=40" width="100%" />
 
-**Aspiring AI Engineer building AI agents, MCP servers and ML tools, with a Java & MERN full stack foundation.**
+**AI Engineer building AI agents, MCP servers and ML tools, with a Java & MERN full stack foundation.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rohit--bagal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-bagal-a32491329)
 [![GitHub](https://img.shields.io/badge/GitHub-rohitbagal1819-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitbagal1819)
