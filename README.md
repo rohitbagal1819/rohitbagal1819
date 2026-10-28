@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rohit--bagal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-bagal-a32491329)
 [![GitHub](https://img.shields.io/badge/GitHub-rohitbagal1819-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitbagal1819)
+[![Notion Portfolio](https://img.shields.io/badge/Notion-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/Rohit-Bagal-407c4841319e803094aff95432dbb3b0?source=copy_link)
 
 </div>
 
