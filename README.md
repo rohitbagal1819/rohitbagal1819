@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hey%20there%20%F0%9F%91%8B%2C%20I'm%20Rohit%20Bagal&fontSize=36&fontColor=ffffff&fontAlignY=40" width="100%" />
 
-**AI Engineer building AI agents, MCP servers and ML tools, with a Java & MERN full stack foundation.**
+**Aspiring AI Engineer building AI agents, MCP servers and ML tools, with a Java & MERN full stack foundation.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rohit--bagal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-bagal-a32491329)
 [![GitHub](https://img.shields.io/badge/GitHub-rohitbagal1819-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitbagal1819)
@@ -45,8 +45,11 @@ Computer Engineering student from Nashik, India, learning and building at [deboi
 
 ### [BlogWriter MCP](https://github.com/rohitbagal1819/BlogWriter-MCP)
 
-* AI-powered MCP server that lets Claude write, manage and publish blog posts directly to Google Blogger
-* Python, MCP
+* Blogger Publishing Assistant: a FastMCP server that connects Claude to the official Google Blogger API, so a post goes from idea to live without copy-pasting into the Blogger editor
+* Exactly 3 MCP primitives: the `publish_blog_post` tool (title, content, labels, optional draft), the `blogger://posts/recent` resource (matches tone and avoids repeat topics) and the `create_blog_post` prompt (structured writing template)
+* Converts Markdown to HTML, uses Google OAuth 2.0 for sign-in, and works with Claude Desktop
+* Includes a `test_server.py` that checks the 1 tool / 1 resource / 1 prompt structure
+* Python, FastMCP, Google Blogger API v3, OAuth 2.0
 * 🔗 [Repo](https://github.com/rohitbagal1819/BlogWriter-MCP)
 
 ---
@@ -65,19 +68,31 @@ Computer Engineering student from Nashik, India, learning and building at [deboi
 
 ---
 
-## 🎯 Currently
+## 🎯 Current Focus
 
-* Building AI agents and MCP servers
-* Going deeper into AI/ML and LLM engineering
-* Strengthening Java & DSA, and building MERN full-stack apps
+* Building practical AI agents and MCP servers.
+* Exploring LLM architecture, retrieval strategies, and inference engineering.
+* Improving my understanding of RAG pipelines and multi-agent orchestration.
+* Developing AI-powered applications that combine Python backends with modern web interfaces.
+* Strengthening Java, object-oriented programming, and data structures and algorithms.
+* Improving software engineering practices through hands-on projects and collaboration.
 
 ---
 
-## 📫 Connect
+## 🤝 Let's Connect
 
-* LinkedIn: [linkedin.com/in/rohit-bagal-a32491329](https://linkedin.com/in/rohit-bagal-a32491329)
-* GitHub: [github.com/rohitbagal1819](https://github.com/rohitbagal1819)
+I'm interested in connecting with developers, AI engineers, and fellow learners who enjoy building useful software and exploring new technologies.
+
+<p align="center">
+  <a href="https://linkedin.com/in/rohit-bagal-a32491329">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://github.com/rohitbagal1819">
+    <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
+</p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=90&section=footer" width="100%" />
+  <h3>💡 Learn. Build. Experiment. Improve.</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=90&section=footer" width="100%" alt="Decorative footer banner" />
 </div>
