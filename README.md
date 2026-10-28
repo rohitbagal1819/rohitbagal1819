@@ -140,17 +140,6 @@ Coordinates 4 specialized agents — **Orchestrator, Researcher, Writer, Reviewe
 
 ---
 
-## 📌 Project Overview
-
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| **DataForge ML** | Dataset cleaning & preprocessing platform | React, Node, FastAPI, Scikit-learn | [Repo](https://github.com/rohitbagal1819/DataForge-ML) · [Live](https://data-forge-ml.vercel.app) |
-| **PermitFlow MCP** | AI permitting co-pilot MCP server | Python, MCP, BM25 RAG | [Repo](https://github.com/rohitbagal1819/PermitFlow-MCP) · [Demo](https://drive.google.com/file/d/1Q7kjDj28XWBAHAi5OtZCaVF3Ypx0wF-U/view?usp=sharing) |
-| **Blogger Multi-Agent** | 4-agent blog automation with LangGraph | Python, LangGraph, Gemini | [Repo](https://github.com/rohitbagal1819/Blogger_Multi_Agent) |
-| **BlogWriter MCP** | Claude → Google Blogger publishing | Python, MCP | [Repo](https://github.com/rohitbagal1819/BlogWriter-MCP) |
-| **MedAnalyzer AI** | Medical analysis web app | EJS, Node.js | [Repo](https://github.com/rohitbagal1819/MedAnalyzer-Ai) |
-| **AI-ML-debo-** | AI/ML daily practice & homework | Jupyter Notebook | [Repo](https://github.com/rohitbagal1819/AI-ML-debo-) |
-
 > 📂 See all repositories → [github.com/rohitbagal1819?tab=repositories](https://github.com/rohitbagal1819?tab=repositories)
 
 ---
